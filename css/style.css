@@ -45,6 +45,9 @@ h6 {
     max-width: 823px;
     margin: 0px auto;
 }
+.image {
+    position: absolute;
+}
 .about__header {
     margin: 65px 0px 65px 0px;
 }
